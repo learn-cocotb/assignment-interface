@@ -12,7 +12,7 @@ jobs:
       - uses: actions/upload-artifact@v3
         with:
           name: waveform
-          path: tb/waves.vcd
+          path: tests/waves.vcd
 
       - name: Publish Test Report
         uses: mikepenz/action-junit-report@v3
