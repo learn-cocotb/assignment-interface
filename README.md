@@ -1,5 +1,14 @@
 # Assignment interfaces
 
+This Repo should be used for all assignments following assignment 2.
+i.e.
+
+* Interfaces
+* TestPlan
+* Functional Coverage
+* CRV
+
+
 The DUT Implements an OR Gate with access via a Configuration and Status Register instead of direct access via ports.
 
 ## DUT IO specification
